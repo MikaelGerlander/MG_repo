@@ -6,3 +6,5 @@
 *.bak
 Debug/
 Release/
+*.componentinfo
+GCC/
