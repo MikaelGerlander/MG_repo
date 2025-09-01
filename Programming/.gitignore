@@ -1,0 +1,10 @@
+*.exe
+*.hex
+*.elf
+*.obj
+*.dep
+*.bak
+Debug/
+Release/
+*.componentinfo
+GCC/
